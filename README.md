@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is VITALII MIELIET
+========================================================================================================================================
 
-<!--
-**vitalii-mieliet/vitalii-mieliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fulstack Developer | Node.js, React. js, TypeScript, HTML/CSS |
+---------------------------------------------------------------
 
-Here are some ideas to get you started:
+Fullstack Developer with proficiency in HTML, CSS, JavaScript, TypeScript, React, and Node.js. Experienced in delivering solo and collaborative training projects using Agile methodologies, Git version control, and REST API integration. Skilled in building responsive, accessible, and maintainable UI with clean, modular architecture. Background in technical support and e-commerce enhances communication, attention to detail, and analytical problem-solving. Interested in and eager to grow in the field of modern, user-centric web and mobile application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Ukraine
+* 🧠  I'm currently learning Node.js
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/vitalii-mieliet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://vitalii-mieliet.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode" /> </picture> </a> <a href="https://www.linkedin.com/in/vitalii-mieliet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/vitalii-mieliet"><img src="https://github-readme-stats.vercel.app/api?username=vitalii-mieliet&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vitalii-mieliet's GitHub stats" /></a>
+
+<a href="http://www.github.com/vitalii-mieliet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitalii-mieliet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/vitalii-mieliet" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalii-mieliet&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/vitalii-mieliet/travel-trucks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vitalii-mieliet&repo=travel-trucks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vitalii-mieliet/artists-hub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vitalii-mieliet&repo=artists-hub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/vitalii-mieliet/watchcharm" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vitalii-mieliet&repo=watchcharm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vitalii-mieliet/web-studio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vitalii-mieliet&repo=web-studio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/vitalii.mieliet"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/vitaliimieliet"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
