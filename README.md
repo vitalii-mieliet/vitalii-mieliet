@@ -1,7 +1,7 @@
 Hi! My name is VITALII MIELIET
 ========================================================================================================================================
 
-Fulstack Developer | Node.js, React. js, TypeScript, HTML/CSS |
+Fullstack Developer | Node.js, React. js, TypeScript, HTML/CSS |
 ---------------------------------------------------------------
 
 Fullstack Developer with proficiency in HTML, CSS, JavaScript, TypeScript, React, and Node.js. Experienced in delivering solo and collaborative training projects using Agile methodologies, Git version control, and REST API integration. Skilled in building responsive, accessible, and maintainable UI with clean, modular architecture. Background in technical support and e-commerce enhances communication, attention to detail, and analytical problem-solving. Interested in and eager to grow in the field of modern, user-centric web and mobile application development.
